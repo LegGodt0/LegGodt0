@@ -1,37 +1,36 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/93236678?v=4" width="200" />
-I'm **LegGodt**, An developer from somewhere in the planet. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
+I'm **LegGodt**, An developer from somewhere in the planet. I like to code web applications and games. I have worked on some projects in my past, Some of my open source projects are pinned below make sure to check them out.
   
-Thanks for visiting my github profile. Have a great day ahead!~
+Thanks for visiting my github profile!~
   
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
-const Sudhan = {
-    FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 81,
-    OpenedPullRequests: 67,
-    TotalCommits: 13212,
-    Stars: 1734,
+const LegGodt0 = {
+    FavouriteLanguage: "Python & C",
+    OpenedIssues: 0,
+    OpenedPullRequests: 0,
+    TotalCommits: 7,
+    Stars: 1,
     Repositories: {
-       Created: 186,
-       Contributed: 14
+       Created: 2,
+       Contributed: 0
     },
-}; //I'm a Epic Object, UwU
+}; //I'm an Object, uwu
 ```
-  
+<h2 align="center"> 🚀 My Stats 🚀</h2>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LegGodt0&theme=tokyonight">
+</p>
+<details>
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=LegGodt0&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=LegGodt0&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+  </p>
+</details>  
 
-
-<!--
-**LegGodt0/LegGodt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Last updated on Mon Nov 20 2023 18:17:38 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 20th November 2023</i> 🔥
