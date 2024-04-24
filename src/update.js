@@ -1,5 +1,5 @@
 const path = require("path");
-const fetch = require("node-fetch");
+const fetch = dynamic import("node-fetch");
 const fs = require("fs");
 
 let stars = 0,
