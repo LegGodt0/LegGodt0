@@ -4,10 +4,10 @@
     "description": "About me by myself",
     "main": "src/update.js",
     "repository": "https://github.com/LegGodt0/LegGodt0",
-    "author": "Javier <sjavitrrox@gmail.com>",
+    "author": "LegGodt <sjavitrrox@gmail.com>",
     "license": "MIT",
     "private": false,
     "dependencies": {
-        "node-fetch": "^3.0.0"
+        "node-fetch": "^2.6.5"
     }
 }
