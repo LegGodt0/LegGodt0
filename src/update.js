@@ -9,7 +9,7 @@ let special;
 
 const CountStars = async () => {
     let StarsData = await fetch(
-    `https://api.github.com/users/SudhanPlayz/starred?per_page=100&page=${page}`
+    `https://api.github.com/users/LegGodt0/starred?per_page=100&page=${page}`
     ).then((res) => res.json());
     stars += StarsData.length;
     page++;
@@ -29,7 +29,7 @@ const WriteReadMe = async () => {
     else if(mm === 9 && dd === 29) special = ["🎉", "🎈", "🎊"]
 
   //Fetching Info From Github API
-    let UserData = await fetch("https://api.github.com/users/SudhanPlayz").then(
+    let UserData = await fetch("https://api.github.com/users/LegGodt0").then(
     (res) => res.json()
     );
 
