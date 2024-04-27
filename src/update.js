@@ -44,13 +44,13 @@ Thanks for visiting my github profile!~
 \`\`\`js
 const LegGodt0 = {
     FavouriteLanguage: "PythonC",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 0,
+    OpenedPullRequests: 3,
+    TotalCommits: 75,
     Stars: ${stars},
     Repositories: {
-        Created: {{ REPOSITORIES }},
-        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+        Created: 6,
+        Contributed: 0
     },
 }; //I'm an Object, uwu
 \`\`\`
