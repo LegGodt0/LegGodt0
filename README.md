@@ -9,12 +9,12 @@ Thanks for visiting my github profile!~
 const LegGodt0 = {
     FavouriteLanguage: "PythonC",
     OpenedIssues: 0,
-    OpenedPullRequests: 3,
-    TotalCommits: 145,
+    OpenedPullRequests: 4,
+    TotalCommits: 147,
     Stars: 8,
     Repositories: {
-        Created: 6,
-        Contributed: 0
+        Created: 8,
+        Contributed: 1
     },
 }; //I'm an Object, uwu
 ```
@@ -33,5 +33,5 @@ const LegGodt0 = {
     </p>
 </details>
 
-<!-- Last updated on Tue May 07 2024 01:09:38 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue May 07 2024 01:43:13 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 7th May 2024 using magic</i> ✨ 
