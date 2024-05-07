@@ -45,12 +45,12 @@ Thanks for visiting my github profile!~
 const LegGodt0 = {
     FavouriteLanguage: "PythonC",
     OpenedIssues: 0,
-    OpenedPullRequests: 3,
-    TotalCommits: 145,
+    OpenedPullRequests: 4,
+    TotalCommits: 147,
     Stars: ${stars},
     Repositories: {
-        Created: 6,
-        Contributed: 0
+        Created: 8,
+        Contributed: 1
     },
 }; //I'm an Object, uwu
 \`\`\`
