@@ -42,15 +42,15 @@ Thanks for visiting my github profile!~
 <h2 align="center"> ${special?special[0]:"✨"} About Me ${special?special[0]:"✨"}</h2>
 
 \`\`\`js
-const LegGodt0 = {
-    FavouriteLanguage: "PythonC",
-    OpenedIssues: 0,
-    OpenedPullRequests: 4,
-    TotalCommits: 177,
+const LegGodt = {
+    FavouriteLanguage: "Python & C",
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: ${stars},
     Repositories: {
-        Created: 8,
-        Contributed: 1
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm an Object, uwu
 \`\`\`
