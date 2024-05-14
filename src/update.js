@@ -46,7 +46,7 @@ const LegGodt0 = {
     FavouriteLanguage: "PythonC",
     OpenedIssues: 0,
     OpenedPullRequests: 4,
-    TotalCommits: 147,
+    TotalCommits: 177,
     Stars: ${stars},
     Repositories: {
         Created: 8,
