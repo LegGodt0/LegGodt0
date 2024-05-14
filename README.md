@@ -7,7 +7,7 @@ Thanks for visiting my github profile!~
 
 ```js
 const LegGodt = {
-    FavouriteLanguage: "Python & C",
+    FavouriteLanguage: "Python / C",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
@@ -33,5 +33,5 @@ const LegGodt = {
     </p>
 </details>
 
-<!-- Last updated on Tue May 14 2024 04:48:02 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue May 14 2024 04:48:42 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 14th May 2024 using magic</i> ✨ 
