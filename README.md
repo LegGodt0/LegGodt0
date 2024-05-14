@@ -6,15 +6,15 @@ Thanks for visiting my github profile!~
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
-const LegGodt0 = {
-    FavouriteLanguage: "PythonC",
-    OpenedIssues: 0,
-    OpenedPullRequests: 4,
-    TotalCommits: 177,
+const LegGodt = {
+    FavouriteLanguage: "Python & C",
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 8,
     Repositories: {
-        Created: 8,
-        Contributed: 1
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm an Object, uwu
 ```
@@ -33,5 +33,5 @@ const LegGodt0 = {
     </p>
 </details>
 
-<!-- Last updated on Tue May 14 2024 03:18:59 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue May 14 2024 04:48:02 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 14th May 2024 using magic</i> ✨ 
