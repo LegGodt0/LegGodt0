@@ -43,7 +43,7 @@ Thanks for visiting my github profile!~
 
 \`\`\`js
 const LegGodt = {
-    FavouriteLanguage: "Python & C",
+    FavouriteLanguage: "Python / C",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
