@@ -8,13 +8,13 @@ Thanks for visiting my github profile!~
 ```js
 const LegGodt = {
     FavouriteLanguage: "Python / C",
-    OpenedIssues: 0,
-    OpenedPullRequests: 4,
-    TotalCommits: 686,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 10,
     Repositories: {
-       Created: 8,
-       Contributed: 3
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm an Object, uwu
 ```
@@ -33,5 +33,5 @@ const LegGodt = {
     </p>
 </details>
 
-<!-- Last updated on Thu May 30 2024 18:23:04 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 30th May 2024 using magic</i> ✨ 
+<!-- Last updated on Fri May 31 2024 01:12:46 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 31th May 2024 using magic</i> ✨ 
