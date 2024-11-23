@@ -8,13 +8,13 @@ Thanks for visiting my github profile!~
 ```js
 const LegGodt = {
     FavouriteLanguage: "Python / C",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 0,
+    OpenedPullRequests: 6,
+    TotalCommits: 2165,
     Stars: 11,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 18,
+       Contributed: 3
     },
 }; //I'm an Object, uwu
 ```
