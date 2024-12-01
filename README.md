@@ -3,23 +3,23 @@ I'm **LegGodt**, An developer from somewhere in the planet. I like to code web a
 
 Thanks for visiting my github profile!~
 
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> ⛄ About Me ⛄</h2>
 
 ```js
 const LegGodt = {
     FavouriteLanguage: "Python / C",
-    OpenedIssues: 0,
-    OpenedPullRequests: 6,
-    TotalCommits: 2223,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 11,
     Repositories: {
-       Created: 18,
-       Contributed: 3
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm an Object, uwu
 ```
 
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ❄ My Stats ❄</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegGodt0&theme=tokyonight">
 </p>
@@ -33,5 +33,5 @@ const LegGodt = {
     </p>
 </details>
 
-<!-- Last updated on Sat Nov 30 2024 18:25:33 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 30th November 2024 using magic</i> ✨ 
+<!-- Last updated on Sun Dec 01 2024 01:54:35 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 1st December 2024 using magic</i> 🎄 
